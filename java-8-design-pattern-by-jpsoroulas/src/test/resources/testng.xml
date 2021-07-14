@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="java 8 deisgn patterns" verbose="1">
+    <test name="java 8 deisgn patterns" preserve-order="true">
+        <packages>
+      		<package name="design.pattern.java._8.based.on.jpsoroulas._1_creational" />
+      		<package name="design.pattern.java._8.based.on.jpsoroulas._2_structural" />
+          <package name="design.pattern.java._8.based.on.jpsoroulas._3_beharioral" />
+          <package name="design.pattern.java._8.based.on.jpsoroulas.streams" />
+        </packages>
+    </test>
+</suite>
