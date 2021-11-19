@@ -1,15 +1,6 @@
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-design%20pattern-blue)
 ![](https://img.shields.io/badge/development%20year-2009-orange)
-![](https://img.shields.io/badge/contributor-shijian%20su-purple)
-![](https://img.shields.io/badge/license-MIT-lightgrey)
-
-![](https://img.shields.io/github/languages/top/shijiansu/design-pattern-java-6-by-tarena)
-![](https://img.shields.io/github/languages/count/shijiansu/design-pattern-java-6-by-tarena)
-![](https://img.shields.io/github/languages/code-size/shijiansu/design-pattern-java-6-by-tarena)
-![](https://img.shields.io/github/repo-size/shijiansu/design-pattern-java-6-by-tarena)
-![](https://img.shields.io/github/last-commit/shijiansu/design-pattern-java-6-by-tarena?color=red)
-![](https://github.com/shijiansu/design-pattern-java-6-by-tarena/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 

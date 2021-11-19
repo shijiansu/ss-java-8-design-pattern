@@ -1,15 +1,6 @@
 ![](https://img.shields.io/badge/language-java-blue)
 ![](https://img.shields.io/badge/technology-java8,%20design%20pattern,%20testng,%20stopWatch,%20streamex-blue)
 ![](https://img.shields.io/badge/development%20year-2016-orange)
-![](https://img.shields.io/badge/contributor-shijian%20su-purple)
-![](https://img.shields.io/badge/license-MIT-lightgrey)
-
-![](https://img.shields.io/github/languages/top/shijiansu/design-pattern-java-8-by-jpsoroulas)
-![](https://img.shields.io/github/languages/count/shijiansu/design-pattern-java-8-by-jpsoroulas)
-![](https://img.shields.io/github/languages/code-size/shijiansu/design-pattern-java-8-by-jpsoroulas)
-![](https://img.shields.io/github/repo-size/shijiansu/design-pattern-java-8-by-jpsoroulas)
-![](https://img.shields.io/github/last-commit/shijiansu/design-pattern-java-8-by-jpsoroulas?color=red)
-![](https://github.com/shijiansu/design-pattern-java-8-by-jpsoroulas/workflows/ci%20build/badge.svg)
 
 --------------------------------------------------------------------------------
 
